@@ -2,7 +2,7 @@
 
 I'm Iwan Haryatno, Software Engineering Enthusiast.
 
-https://iwanharyatno.github.io
+[https://iwanhy.my.id](https://iwanhy.my.id)
 
 - 🔭 I love to explore various topics about Web Programming and Linux OS.
 - 🌱 I’m currently learning Front-End Development.
